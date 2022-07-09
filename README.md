@@ -37,7 +37,7 @@ In short- you can do anything you like with the game (including sell products ma
 2. Claim to have created the engine yourself or remove the credits
 3. Not provide source code for any build which differs from any official release which includes MP3 support.
 
-With dancemania, these licensing terms still apply.
+With dancefreaks, these licensing terms still apply.
 As time goes on, I will be adding more licensing terms, but they will not be anything major compared to what StepMania already has.
 
 For specific information/legalese:
