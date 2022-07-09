@@ -1,7 +1,9 @@
 StepMania
 =========
 
-StepMania is an advanced cross-platform rhythm game for home and arcade use.
+This is an attempt at making a StepMania5 fork*. This fork has no advantages over any other fork. If you wish to actually play and enjoy this game, just use the original repo or [Project OutFox](https://projectoutfox.com/).
+
+*I have no clue what I'm doing
 
 [![Continuous integration](https://github.com/stepmania/stepmania/workflows/Continuous%20integration/badge.svg?branch=5_1-new)](https://github.com/stepmania/stepmania/actions?query=workflow%3A%22Continuous+integration%22+branch%3A5_1-new)
 [![Build Status](https://travis-ci.org/stepmania/stepmania.svg?branch=master)](https://travis-ci.org/stepmania/stepmania)
@@ -13,7 +15,7 @@ StepMania is an advanced cross-platform rhythm game for home and arcade use.
 For those that do not wish to compile the game on their own and use a binary right away, be aware of the following issues:
 
 * Windows users are expected to have installed the [Microsoft Visual C++ x86 Redistributable for Visual Studio 2015](http://www.microsoft.com/en-us/download/details.aspx?id=48145) prior to running the game. For those on a 64-bit operating system, grab the x64 redistributable as well. Windows 7 is the minimum supported version.
-* Mac OS X users need to have Mac OS X 10.6.8 or higher to run StepMania.
+* There is no MacOS support for this fork.
 * Linux users should receive all they need from the package manager of their choice.
 
 ### From Source
@@ -35,7 +37,8 @@ In short- you can do anything you like with the game (including sell products ma
 2. Claim to have created the engine yourself or remove the credits
 3. Not provide source code for any build which differs from any official release which includes MP3 support.
 
-(It's not required, but we would also appreciate it if you link back to http://www.stepmania.com/)
+With dancemania, these licensing terms still apply.
+As time goes on, I will be adding more licensing terms, but they will not be anything major compared to what StepMania already has.
 
 For specific information/legalese:
 
